@@ -6,11 +6,22 @@
     <title>@ViewData["Title"] - ASMAPDP</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/ASMAPDP.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/AuthCsvApp.styles.css" asp-append-version="true" />
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+
+            @if (Context.Session.GetString("Username") != null)
+            {
+                <p>Xin chào, @Context.Session.GetString("Username") - Vai trò: @Context.Session.GetString("Role")</p>
+
+                <a asp-controller="Auth" asp-action="Logout">Đăng xuất</a>
+            }
+            else
+            {
+                <a asp-controller="Auth" asp-action="Login">Đăng nhập</a>
+            }
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">ASMAPDP</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"

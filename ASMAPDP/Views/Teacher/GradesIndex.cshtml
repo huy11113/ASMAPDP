@@ -1,0 +1,33 @@
+﻿@model IEnumerable<ASMAPDP.Models.Class>
+
+@{
+    ViewData["Title"] = "Chọn lớp để nhập điểm";
+}
+
+<h2>Chọn lớp để nhập điểm</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tên lớp</th>
+            <th>Thời khóa biểu</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.ClassName</td>
+                <td>@item.Schedule</td>
+                <td>
+                    <a asp-action="EnterGrades" asp-controller="Grades" asp-route-classId="@item.Id">Nhập điểm</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" asp-controller="Classes">Quay lại danh sách lớp học</a>

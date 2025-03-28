@@ -1,0 +1,40 @@
+﻿@model ASMAPDP.Models.Class
+
+@{
+    ViewData["Title"] = "Thêm lớp học mới";
+}
+
+<h2>Thêm lớp học mới</h2>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Add" asp-controller="Classes" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ClassName" class="control-label">Tên lớp</label>
+                <input asp-for="ClassName" class="form-control" required />
+                <span asp-validation-for="ClassName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Schedule" class="control-label">Thời khóa biểu</label>
+                <input asp-for="Schedule" class="form-control" required />
+                <span asp-validation-for="Schedule" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Thêm" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" asp-controller="Classes">Quay lại danh sách lớp học</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

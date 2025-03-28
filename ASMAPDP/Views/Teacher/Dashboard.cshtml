@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Teacher Dashboard";
+}
+
+<h2>Teacher Dashboard</h2>
+
+<ul>
+    <li><a asp-action="Index" asp-controller="Grades">Nhập điểm</a></li>
+    <li><a asp-action="Index" asp-controller="Classes">Quản lý lớp học</a></li>
+    <li><a asp-action="Index" asp-controller="TeacherStudentList">Danh sách sinh viên</a></li>
+    <li><a asp-action="Logout" asp-controller="Auth">Đăng xuất</a></li>
+</ul>

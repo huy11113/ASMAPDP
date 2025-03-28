@@ -1,12 +1,785 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\APD_ASM\\ASMAPDP\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ricec\\ASMAPDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\admin\\coursemanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\admin\\coursemanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\teacher\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\teacher\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\teacher\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\teacher\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\teacher\\teachergradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\teacher\\teachergradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\teacher\\teacherstudentlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\teacher\\teacherstudentlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\admin\\managecoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\admin\\managecoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\student\\studentschedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\student\\studentschedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\student\\studentprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\student\\studentprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\student\\studentgrades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\student\\studentgrades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\student\\studentcourseregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\student\\studentcourseregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\admin\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\admin\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\admin\\studentmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\admin\\studentmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\student\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\student\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\student\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\student\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\student\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\student\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\student\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\student\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\student\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\student\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\admin\\manageuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\admin\\manageuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\admin\\managestudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\admin\\managestudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\models\\studentgradeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\models\\studentgradeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\teacher\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\teacher\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\teacher\\entergrades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\teacher\\entergrades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\teacher\\gradesindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\teacher\\gradesindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\teacher\\teacherclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\teacher\\teacherclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\teacher\\teacherstudentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\teacher\\teacherstudentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\student\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|c:\\users\\ricec\\asmapdp\\asmapdp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6019D03B-9C9A-475E-9FDC-E4EA7790A1FA}|ASMAPDP\\ASMAPDP.csproj|solutionrelative:asmapdp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherStudentListController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Teacher\\TeacherStudentListController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\Teacher\\TeacherStudentListController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Teacher\\TeacherStudentListController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\Teacher\\TeacherStudentListController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:11:37.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherGradesController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Teacher\\TeacherGradesController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\Teacher\\TeacherGradesController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Teacher\\TeacherGradesController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\Teacher\\TeacherGradesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwMIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:11:12.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Teacher\\TeacherController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\Teacher\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Teacher\\TeacherController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\Teacher\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:10:47.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Teacher\\ClassesController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\Teacher\\ClassesController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Teacher\\ClassesController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\Teacher\\ClassesController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowHsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:10:22.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Admin\\CourseManagement.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Admin\\CourseManagement.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Admin\\CourseManagement.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Admin\\CourseManagement.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T01:52:48.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageCoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Admin\\ManageCoursesController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\Admin\\ManageCoursesController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Admin\\ManageCoursesController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\Admin\\ManageCoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:43:44.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\Admin\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Admin\\AdminController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\Admin\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:43:21.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentSchedule.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Student\\StudentSchedule.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Student\\StudentSchedule.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Student\\StudentSchedule.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Student\\StudentSchedule.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T01:56:30.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Student\\StudentProfile.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Student\\StudentProfile.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Student\\StudentProfile.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Student\\StudentProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T01:56:13.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentGrades.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Student\\StudentGrades.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Student\\StudentGrades.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Student\\StudentGrades.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Student\\StudentGrades.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T01:55:55.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentCourseRegistration.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Student\\StudentCourseRegistration.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Student\\StudentCourseRegistration.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Student\\StudentCourseRegistration.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Student\\StudentCourseRegistration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T01:55:37.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Admin\\UserManagement.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Admin\\UserManagement.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Admin\\UserManagement.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Admin\\UserManagement.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T01:54:41.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Admin\\StudentManagement.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Admin\\StudentManagement.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Admin\\StudentManagement.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Admin\\StudentManagement.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T01:54:18.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Student\\CoursesController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\Student\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Student\\CoursesController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\Student\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:48:13.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GradesController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Student\\GradesController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\Student\\GradesController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Student\\GradesController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\Student\\GradesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:47:53.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Student\\ProfileController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\Student\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Student\\ProfileController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\Student\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:47:17.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T00:38:23.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Student\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\Student\\ScheduleController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Student\\ScheduleController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\Student\\ScheduleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:46:50.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T00:23:51.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T00:30:52.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T00:31:56.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Student\\StudentController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\Student\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Student\\StudentController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\Student\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:46:03.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManageUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Admin\\ManageUsersController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\Admin\\ManageUsersController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Admin\\ManageUsersController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\Admin\\ManageUsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:44:23.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManageStudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Admin\\ManageStudentsController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\Admin\\ManageStudentsController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\Admin\\ManageStudentsController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\Admin\\ManageStudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:44:02.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\appsettings.json",
+              "RelativeDocumentMoniker": "ASMAPDP\\appsettings.json",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\appsettings.json",
+              "RelativeToolTip": "ASMAPDP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T01:42:25.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T01:33:45.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:16:18.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentGradeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\StudentGradeViewModel.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Models\\StudentGradeViewModel.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\StudentGradeViewModel.cs",
+              "RelativeToolTip": "ASMAPDP\\Models\\StudentGradeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:16:30.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ASMAPDP\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswGUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:12:22.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Program.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Program.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Program.cs",
+              "RelativeToolTip": "ASMAPDP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:07:51.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\Grade.cs",
+              "RelativeToolTip": "ASMAPDP\\Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:13:52.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Teacher\\Add.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Teacher\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Teacher\\Add.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Teacher\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T00:53:19.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Teacher\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Teacher\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Teacher\\Dashboard.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Teacher\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T00:40:45.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EnterGrades.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Teacher\\EnterGrades.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Teacher\\EnterGrades.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Teacher\\EnterGrades.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Teacher\\EnterGrades.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T00:58:43.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GradesIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Teacher\\GradesIndex.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Teacher\\GradesIndex.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Teacher\\GradesIndex.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Teacher\\GradesIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T01:05:33.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TeacherClass.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Teacher\\TeacherClass.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Teacher\\TeacherClass.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Teacher\\TeacherClass.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Teacher\\TeacherClass.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T00:45:44.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TeacherStudentList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Teacher\\TeacherStudentList.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Teacher\\TeacherStudentList.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Teacher\\TeacherStudentList.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Teacher\\TeacherStudentList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T01:23:07.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Student\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Student\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Student\\Dashboard.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Student\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T00:40:12.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\Class.cs",
+              "RelativeToolTip": "ASMAPDP\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:13:08.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\Course.cs",
+              "RelativeToolTip": "ASMAPDP\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:13:28.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASMAPDP\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ASMAPDP\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T00:24:00.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\User.cs",
+              "RelativeToolTip": "ASMAPDP\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:14:50.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\Teacher.cs",
+              "RelativeToolTip": "ASMAPDP\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:14:28.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\Student.cs",
+              "RelativeToolTip": "ASMAPDP\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:14:11.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASMAPDP\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ricec\\ASMAPDP\\ASMAPDP\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASMAPDP\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:11:18.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

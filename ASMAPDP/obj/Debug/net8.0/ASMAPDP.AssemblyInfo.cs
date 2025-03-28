@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASMAPDP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e75e79f9e0458668daf3c655cb282b2f5d24b7a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASMAPDP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASMAPDP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

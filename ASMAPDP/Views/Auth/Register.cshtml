@@ -1,0 +1,39 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Đăng ký";
+}
+
+<h2>Đăng ký</h2>
+
+<form asp-action="Register" method="post">
+    <div>
+        <label>Họ và tên:</label>
+        <input asp-for="FullName" required />
+    </div>
+    <div>
+        <label>Địa chỉ:</label>
+        <input asp-for="Address" required />
+    </div>
+    <div>
+        <label>Username:</label>
+        <input asp-for="Username" required />
+    </div>
+    <div>
+        <label>Password:</label>
+        <input asp-for="Password" type="password" required />
+    </div>
+    <div>
+        <label for="role">Role:</label>
+        <select id="role" name="Role" class="form-control">
+            <option value="Admin">Admin</option>
+            <option value="Student" selected>Student</option>
+            <option value="Teacher">Teacher</option>
+        </select>
+
+    </div>
+    <button type="submit">Đăng ký</button>
+</form>
+
+<p><a asp-action="Login">Đã có tài khoản? Đăng nhập</a></p>
+
+

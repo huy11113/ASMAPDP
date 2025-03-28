@@ -1,0 +1,31 @@
+﻿@model IEnumerable<ASMAPDP.Models.User>
+
+@{
+    ViewData["Title"] = "Danh sách sinh viên";
+}
+
+<h2>Danh sách sinh viên</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tên đầy đủ</th>
+            <th>Địa chỉ</th>
+            <th>Username</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.FullName</td>
+                <td>@item.Address</td>
+                <td>@item.Username</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Dashboard" asp-controller="Teacher">Quay lại Dashboard</a>

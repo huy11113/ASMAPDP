@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Nhập điểm";
+    int classId = ViewBag.ClassId;
+    string className = ViewBag.ClassName;
+}
+
+<h2>Nhập điểm cho lớp @className</h2>
+
+<form asp-action="SaveGrades" asp-controller="Grades" method="post">
+    <input type="hidden" name="classId" value="@classId" />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên sinh viên</th>
+                <th>Điểm</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in Model)
+            {
+                <tr>
+                    <td>@student.FullName (@student.StudentUsername)</td>
+                    <td>
+                        <input type="number" step="0.1" min="0" max="10" name="scores[@student.StudentUsername]" value="@student.Score" class="form-control" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button type="submit" class="btn btn-primary">Lưu điểm</button>
+</form>
+
+<a asp-action="Index" asp-controller="Classes">Quay lại danh sách lớp học</a>
+
